@@ -1,4 +1,4 @@
-### Hello There! i'm Tarunpreet A.K.A [BLA4KM4MBA][website]
+### Hello There! I'm Tarunpreet A.K.A [BLA4KM4MBA][website]
 
 ## A student, gamer, programmer, otaku and finally a *human* not an alien 🤣
 
