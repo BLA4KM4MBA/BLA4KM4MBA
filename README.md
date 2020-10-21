@@ -22,10 +22,12 @@
 <br />
 <br />
 
-<details>
-    <summary>:zap: Github Stats</summary>
+---
 
-    <img align="Left" alt="Mamba's Github Stats src="https://github-readme-stats.bla4km4mba.vercel.app/api?username=BLA4KM4MBA&show_icons=True&hide_border=true" />
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="BLA4KM4MBA's GitHub Stats" src="https://github-readme-stats.bla4km4mba.vercel.app/api?username=BLA4KM4MBA&show_icons=true&hide_border=true" />
 
 </details>
 
