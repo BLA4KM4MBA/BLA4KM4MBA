@@ -38,6 +38,6 @@
 
 [website]: https://tarunpreet.ml
 [twitter]: https://twitter.com/BLA4KM4MBA
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://www.youtube.com/channel/UC8IPICpCbMIYz7sSSVBZNFw
 [reddit]:  https://www.reddit.com/user/BLA4KM4MBA
 [discord]: mailto:BLA4KM4MBA#4698
