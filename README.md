@@ -2,6 +2,11 @@
 
 ## A student, gamer, programmer, otaku and finally a *human* not an alien 🤣
 
+## Total Visitors:
+```
+![Visitor Count](https : //profile-counter.glitch.me/BLA4KM4MBA/count.svg)
+```
+
 ### Follow me(or your choice?)
 
 <br>
@@ -35,4 +40,4 @@
 [twitter]: https://twitter.com/BLA4KM4MBA
 [youtube]: https://youtube.com/codeSTACKr
 [reddit]:  https://www.reddit.com/user/BLA4KM4MBA
-[discord]: BLA44KM4MBA#4698
+[discord]: mailto:BLA4KM4MBA#4698
