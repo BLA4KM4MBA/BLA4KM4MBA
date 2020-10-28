@@ -4,7 +4,7 @@
 
 ## Total Visitors:
 ```
-![Visitor Count](https : //profile-counter.glitch.me/BLA4KM4MBA/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/BLA4KM4MBA/count.svg)
 ```
 
 ### Follow me(or your choice?)
