@@ -3,9 +3,7 @@
 ## A student, gamer, programmer, otaku and finally a *human* not an alien 🤣
 
 ## Total Visitors:
-```
-![Visitor Count](https://profile-counter.glitch.me/BLA4KM4MBA/count.svg)
-```
+<img src="https://visitor-badge.glitch.me/badge?page_id=BLA4KM4MBA.visitor-badge" alt="visitor badge"/>
 
 ### Follow me(or your choice?)
 
