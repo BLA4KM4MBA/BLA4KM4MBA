@@ -36,7 +36,7 @@
 
 </details>
 
-[website]: https://tarunpreet.ml
+[website]: https://www.tarunpreet.ml
 [twitter]: https://twitter.com/BLA4KM4MBA
 [youtube]: https://www.youtube.com/channel/UC8IPICpCbMIYz7sSSVBZNFw
 [reddit]:  https://www.reddit.com/user/BLA4KM4MBA
