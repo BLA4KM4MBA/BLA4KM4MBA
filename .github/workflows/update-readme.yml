@@ -11,6 +11,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: BLA4KM4MBA/BLA4KM4MBA
+      - uses: BLA4KM4MBA/BLA4KM4MBA@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
