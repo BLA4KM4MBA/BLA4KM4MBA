@@ -1,6 +1,6 @@
 ### Hello There! I'm Tarunpreet A.K.A [BLA4KM4MBA][website]
 
-## A student, gamer, programmer, otaku and finally a *human* not an alien 🤣
+## A student, gamer, programmer, otaku and finally.... a *human*, not an alien 🤣
 
 ## Total Visitors:
 <img src="https://visitor-badge.glitch.me/badge?page_id=BLA4KM4MBA.visitor-badge" alt="visitor badge"/>
@@ -37,7 +37,7 @@
 
 </details>
   <summary>:heart: Languages I love the most!</summary>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BLA4KM4MBA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    <img align="left" alt="My Most L0ved Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLA4KM4MBA&layout=compact&theme=tokyolight"/>
 <details>
   
 </details>
