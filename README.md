@@ -30,10 +30,16 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="BLA4KM4MBA's GitHub Stats" src="https://github-readme-stats.bla4km4mba.vercel.app/api?username=BLA4KM4MBA&show_icons=true&hide_border=true" />
+  <img align="left" alt="BLA4KM4MBA's GitHub Stats" src="https://github-readme-stats.bla4km4mba.vercel.app/api?username=BLA4KM4MBA&show_icons=true&hide_border=true&theme=tokyonight" />
   
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
+</details>
+  <summary>:heart: Languages I love the most!</summary>
+    <img align="left" alt="BLA4KM4MBA's GitHub Stats" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BLA4KM4MBA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" />
+<details>
+  
 </details>
 
 [website]: https://www.tarunpreet.ml
