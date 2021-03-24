@@ -36,11 +36,9 @@
 <!--END_SECTION:activity-->
 
 </details>
+
   <summary>:heart: Languages I love the most!</summary>
-    <img align="left" alt="My Most L0ved Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLA4KM4MBA&layout=compact&theme=tokyolight"/>
-<details>
-  
-</details>
+    <img align="left" alt="My Most L0ved Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLA4KM4MBA&"/>
 
 [website]: https://www.tarunpreet.ml
 [twitter]: https://twitter.com/BLA4KM4MBA
