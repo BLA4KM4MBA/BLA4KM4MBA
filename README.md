@@ -39,18 +39,12 @@
 <br />
 <br />
 <br />
-<br />
-<br />
 
 ### :heart: Languages I love the most!
 
   <img align="left" alt="My Most L0ved Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLA4KM4MBA&"/>
 
 ---
-
-<br />
-<br />
-<br />
 
 
 ### ⚡ My Recent Github Actions:
