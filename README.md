@@ -39,6 +39,9 @@
     <img align="left" alt="My Most L0ved Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLA4KM4MBA&"/>
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#11762](https://github.com/timburgan/timburgan/issues/11762) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+2. ❗️ Opened issue [#10351](https://github.com/timburgan/timburgan/issues/10351) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+<!--END_SECTION:activity-->
 
 [website]: https://www.tarunpreet.ml
 [twitter]: https://twitter.com/BLA4KM4MBA
