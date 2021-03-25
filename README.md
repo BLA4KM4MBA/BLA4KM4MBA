@@ -3,6 +3,7 @@
 ## A student, gamer, programmer, otaku and finally.... a *human*, not an alien 🤣
 
 ## Total Visitors:
+
 <img src="https://visitor-badge.glitch.me/badge?page_id=BLA4KM4MBA.visitor-badge" alt="visitor badge"/>
 
 ### Follow me(or your choice?)
@@ -35,18 +36,16 @@
 
 </details>
 
-<br />
-<br />
----
+<br>
+<br>
+
+<details>
   <summary>:heart: Languages I love the most!</summary>
     <img align="left" alt="My Most L0ved Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLA4KM4MBA&"/>
+</details>
 
-<br />
-<br />
-
-
-
-
+<br>
+<br>
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#11762](https://github.com/timburgan/timburgan/issues/11762) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
