@@ -36,10 +36,11 @@
 
 ---
 
-### :heart: Languages I love the most!
+<details>
+<summary>:heart: Languages I love the most!<summary>
 
   <img align="left" alt="My Most L0ved Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLA4KM4MBA&"/>
-
+</details>
 <br />
 <br />
 
