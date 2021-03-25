@@ -27,15 +27,16 @@
 <br />
 <br />
 
----
 
 ### :zap: My GitHub Stats:
 
   <img align="left" alt="BLA4KM4MBA's GitHub Stats" src="https://github-readme-stats.bla4km4mba.vercel.app/api?username=BLA4KM4MBA&show_icons=true&hide_border=true&theme=tokyonight" />
 
-
----
-
+<br />
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -44,12 +45,17 @@
 
   <img align="left" alt="My Most L0ved Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLA4KM4MBA&"/>
 
----
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 ### ⚡ My Recent Github Actions:
 
 <br />
+
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#11762](https://github.com/timburgan/timburgan/issues/11762) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
