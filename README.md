@@ -33,10 +33,8 @@
 
   <img align="left" alt="BLA4KM4MBA's GitHub Stats" src="https://github-readme-stats.bla4km4mba.vercel.app/api?username=BLA4KM4MBA&show_icons=true&hide_border=true&theme=tokyonight" />
 
-<br />
-<br />
 
-------
+---
 
 ### :heart: Languages I love the most!
 
@@ -45,16 +43,15 @@
 <br />
 <br />
 
-------
+---
+<br />
+<br />
 
 ### ⚡ My Recent Github Actions:
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#11762](https://github.com/timburgan/timburgan/issues/11762) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 2. ❗️ Opened issue [#10351](https://github.com/timburgan/timburgan/issues/10351) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 <!--END_SECTION:activity-->
-
-<br />
-<br />
 
 [website]: https://www.tarunpreet.ml
 [twitter]: https://twitter.com/BLA4KM4MBA
