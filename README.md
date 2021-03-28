@@ -60,8 +60,8 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12179](https://github.com/timburgan/timburgan/issues/12179) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-2. 💪 Opened PR [#3332](https://github.com/rms-support-letter/rms-support-letter.github.io/pull/3332) in [rms-support-letter/rms-support-letter.github.io](https://github.com/rms-support-letter/rms-support-letter.github.io)
+1. ❗️ Opened issue [#12195](https://github.com/timburgan/timburgan/issues/12195) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+2. ❗️ Opened issue [#12179](https://github.com/timburgan/timburgan/issues/12179) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 <!--END_SECTION:activity-->
 
 [website]: https://www.tarunpreet.ml
