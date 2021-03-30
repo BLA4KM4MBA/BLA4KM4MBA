@@ -60,8 +60,8 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1878](https://github.com/JonathanGin52/JonathanGin52/issues/1878) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-2. ❗️ Opened issue [#12195](https://github.com/timburgan/timburgan/issues/12195) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+1. ❗️ Opened issue [#1883](https://github.com/JonathanGin52/JonathanGin52/issues/1883) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+2. ❗️ Opened issue [#1878](https://github.com/JonathanGin52/JonathanGin52/issues/1878) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
 <!--END_SECTION:activity-->
 
 [website]: https://www.tarunpreet.ml
