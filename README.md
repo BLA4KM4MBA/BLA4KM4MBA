@@ -62,8 +62,8 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1883](https://github.com/JonathanGin52/JonathanGin52/issues/1883) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-2. ❗️ Opened issue [#1878](https://github.com/JonathanGin52/JonathanGin52/issues/1878) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+1. 🎉 Merged PR [#2](https://github.com/Sakon13/WiseLang/pull/2) in [Sakon13/WiseLang](https://github.com/Sakon13/WiseLang)
+2. 💪 Opened PR [#2](https://github.com/Sakon13/WiseLang/pull/2) in [Sakon13/WiseLang](https://github.com/Sakon13/WiseLang)
 <!--END_SECTION:activity-->
 
 [website]: https://www.tarunpreet.ml
