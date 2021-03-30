@@ -4,7 +4,7 @@
 
 ## Total Visitors:
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=BLA4KM4MBA.visitor-badge" alt="visitor badge"/>
+<img src="https://profile-counter.glitch.me/BLA4KM4MBA/count.svg" alt="visitor badge"/>
 
 ### Follow me(or your choice?)
 
@@ -30,7 +30,7 @@
 
 ### :zap: My GitHub Stats:
 
-  <img align="left" alt="BLA4KM4MBA's GitHub Stats" src="hhttps://profile-counter.glitch.me/BLA4KM4MBA/count.svg" />
+  <img align="left" alt="BLA4KM4MBA's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BLA4KM4MBA&theme=tokyonight" />
 
 <br />
 <br />
