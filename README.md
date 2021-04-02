@@ -62,8 +62,8 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Sakon13/WiseLang/pull/2) in [Sakon13/WiseLang](https://github.com/Sakon13/WiseLang)
-2. 💪 Opened PR [#2](https://github.com/Sakon13/WiseLang/pull/2) in [Sakon13/WiseLang](https://github.com/Sakon13/WiseLang)
+1. 🎉 Merged PR [#4](https://github.com/Sakon13/WiseLang/pull/4) in [Sakon13/WiseLang](https://github.com/Sakon13/WiseLang)
+2. 💪 Opened PR [#4](https://github.com/Sakon13/WiseLang/pull/4) in [Sakon13/WiseLang](https://github.com/Sakon13/WiseLang)
 <!--END_SECTION:activity-->
 
 [website]: https://www.tarunpreet.ml
