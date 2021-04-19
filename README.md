@@ -62,8 +62,8 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1911](https://github.com/JonathanGin52/JonathanGin52/issues/1911) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-2. ❗️ Opened issue [#12323](https://github.com/timburgan/timburgan/issues/12323) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+1. ❗️ Opened issue [#6](https://github.com/Sakon13/WiseLang/issues/6) in [Sakon13/WiseLang](https://github.com/Sakon13/WiseLang)
+2. ❗️ Opened issue [#1](https://github.com/NoobyProg/ls-game/issues/1) in [NoobyProg/ls-game](https://github.com/NoobyProg/ls-game)
 <!--END_SECTION:activity-->
 
 [website]: https://www.tarunpreet.ml
