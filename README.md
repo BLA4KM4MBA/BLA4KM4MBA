@@ -62,8 +62,8 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2076](https://github.com/JonathanGin52/JonathanGin52/issues/2076) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-2. ❗️ Opened issue [#1984](https://github.com/JonathanGin52/JonathanGin52/issues/1984) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+1. 💪 Opened PR [#2](https://github.com/NoobyProg/ls-game/pull/2) in [NoobyProg/ls-game](https://github.com/NoobyProg/ls-game)
+2. ❗️ Opened issue [#2076](https://github.com/JonathanGin52/JonathanGin52/issues/2076) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
 <!--END_SECTION:activity-->
 
 [website]: https://www.tarunpreet.ml
