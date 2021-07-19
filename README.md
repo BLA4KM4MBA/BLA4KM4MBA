@@ -62,8 +62,8 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#15075](https://github.com/timburgan/timburgan/issues/15075) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-2. 💪 Opened PR [#2](https://github.com/NoobyProg/ls-game/pull/2) in [NoobyProg/ls-game](https://github.com/NoobyProg/ls-game)
+1. ❗️ Opened issue [#3194](https://github.com/JonathanGin52/JonathanGin52/issues/3194) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
+2. ❗️ Opened issue [#15109](https://github.com/timburgan/timburgan/issues/15109) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 <!--END_SECTION:activity-->
 
 [website]: https://www.tarunpreet.ml
